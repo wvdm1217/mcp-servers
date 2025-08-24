@@ -1,0 +1,5 @@
+{
+	"name": "Debian",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
+	"postCreateCommand": "bash .devcontainer/commands/post-create-command.sh",
+}
